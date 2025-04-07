@@ -65,5 +65,5 @@ This dashboard is intended for:
 ---
 
 🛠️ Tech Stack (Assumed)
-Power BI / Tableau / similar BI tool
+Power BI 
 
