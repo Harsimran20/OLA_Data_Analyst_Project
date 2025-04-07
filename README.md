@@ -1,9 +1,9 @@
 # 🚖 OLA Booking Dashboard
 
 This dashboard provides a comprehensive overview of OLA ride bookings from **01 July 2024 to 30 July 2024**. It is designed to help stakeholders monitor key performance metrics, booking trends, and cancellation insights for better operational decision-making.
-<img width="490" alt="image" src="https://github.com/user-attachments/assets/18a92aff-462a-4f36-b67e-6aadf50499ab" />
+<img width="576" alt="image" src="https://github.com/user-attachments/assets/18a92aff-462a-4f36-b67e-6aadf50499ab" />
 
-<img width="577" alt="image" src="https://github.com/user-attachments/assets/53281420-3e6d-4e6a-b0c3-fa266b580fc8" />
+<img width="576" alt="image" src="https://github.com/user-attachments/assets/53281420-3e6d-4e6a-b0c3-fa266b580fc8" />
 
 <img width="576" alt="image" src="https://github.com/user-attachments/assets/17518313-4bf1-41b8-b440-f795cf5ebe71" />
 
