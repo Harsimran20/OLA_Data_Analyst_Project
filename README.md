@@ -56,14 +56,9 @@ This dashboard is intended for:
 
 ---
 
-## 🛠️ Assumed Tech Stack
+## 🛠️ Tech Stack
 
 - **BI Tool**: Power BI / Tableau / similar platform
 - **Data Source**: OLA backend booking and payment databases
 - **Features**: Interactive filtering, responsive visuals, sidebar navigation
-
----
-
-🛠️ Tech Stack (Assumed)
-Power BI 
 
